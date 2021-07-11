@@ -1,0 +1,21 @@
+{
+  "name": "ci-build-server",
+  "version": "1.0.0",
+  "description": "Homework for Yandex frontend school. Parts 8. Infrastructure.",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Iurii Demidov",
+  "license": "MIT",
+  "devDependencies": {
+    "eslint": "^7.30.0",
+    "eslint-plugin-import": "^2.23.4",
+    "eslint-plugin-node": "^11.1.0",
+    "eslint-plugin-promise": "^5.1.0",
+    "prettier": "^2.3.2"
+  },
+  "engines": {
+    "node": "16.3.0"
+  }
+}
