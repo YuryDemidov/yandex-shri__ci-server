@@ -1,5 +1,7 @@
 # Project specific
 server-conf.json
+agent-conf.json
+workspace
 
 # Logs
 logs

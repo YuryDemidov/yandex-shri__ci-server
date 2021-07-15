@@ -1,0 +1,10 @@
+{
+  "port": 5100,
+  "serverHost": "127.0.0.1",
+  "serverPort": 5000,
+  "agentHost": "127.0.0.1",
+  "updateInterval": 20000,
+  "workspace": "src/workspace",
+  "retryTimeout": 10000,
+  "maxRetries": 10
+}

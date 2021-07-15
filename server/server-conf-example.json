@@ -1,0 +1,8 @@
+{
+  "port": 5000,
+  "apiBaseUrl": "https://shri.yandex/hw/api/",
+  "apiToken": "Bearer api_token",
+  "updateInterval": 20000,
+  "retryTimeout": 10000,
+  "maxRetries": 10
+}
